@@ -1,0 +1,19 @@
+#coverModal {
+    width:auto;
+    height:auto;
+    margin:0 auto;
+}
+.modal-dialog img {
+    width:100%;
+    height:100%;
+    margin:0 auto;
+}
+.modal-dialog {
+    width:60%;
+    height:60%;
+    margin:0 auto;
+}
+img:hover {
+ cursor:pointer;
+}
+
